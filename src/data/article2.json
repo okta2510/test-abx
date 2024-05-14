@@ -1,0 +1,1104 @@
+{
+  "_embedded": {
+    "contributors": [
+      {
+        "canonicalURL": "https://www.abc.net.au/news/zilla-gordon/13529416",
+        "id": "13529416",
+        "names": {
+          "first": "Zilla",
+          "full": "Zilla Gordon",
+          "last": "Gordon"
+        },
+        "role": "author"
+      }
+    ],
+    "locations": [
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/townsville-4810",
+        "id": "16478",
+        "title": "Townsville"
+      }
+    ],
+    "mediaEmbedded": [
+      {
+        "alt": "A woman smiling at the camera, standing in front of shelves of numbered boxes",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "ABC North Queensland: Zilla Gordon"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explore-maddy/100616436",
+        "caption": "Maddy McAllister manages the collections at Townsville's Museum of Tropical Queensland.",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:02:28+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100616436",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 3333,
+                  "cropWidth": 3333,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/89d0a84c3dbef91e007ee42ed029935e?impolicy=wcms_crop_resize&cropH=3333&cropW=3333&xPos=1667&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 1667,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "title": "Dr Maddy McAllister ",
+        "titleAlt": {
+          "lg": "Dr Maddy McAllister ",
+          "md": "Dr Maddy McAllister ",
+          "sm": "underwater explore maddy"
+        }
+      },
+      {
+        "alt": "A woman scuba diving in a coral reef",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "Supplied"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explorer-thumbnail/100614030",
+        "caption": "Dr McAllister says some wrecks have been found using Google Earth.",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:02:28+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100614030",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 719,
+                  "cropWidth": 719,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/223910581ecb350fac5536edc3f54bab?impolicy=wcms_crop_resize&cropH=719&cropW=719&xPos=55&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 55,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "title": "Dr McAllister enjoys exploring new shipwrecks",
+        "titleAlt": {
+          "lg": "Dr McAllister enjoys exploring new shipwrecks",
+          "md": "Dr McAllister enjoys exploring new shipwrecks",
+          "sm": "Underwater explorer thumbnail"
+        }
+      },
+      {
+        "_embedded": {
+          "mediaEmbedded": [
+            {
+              "canonicalURL": "https://www.abc.net.au/local/",
+              "dates": {
+                "displayPublished": "2020-06-08T07:28:01+00:00",
+                "published": "2020-06-08T07:28:01+00:00",
+                "updated": "2020-06-08T07:28:01+00:00"
+              },
+              "docType": "ExternalLink",
+              "id": "12332556",
+              "title": "ABC Local",
+              "titleAlt": {
+                "lg": "ABC Local",
+                "md": "ABC Local",
+                "sm": "ABC Local"
+              }
+            }
+          ]
+        },
+        "dates": {
+          "displayPublished": "2020-09-10T05:35:02+00:00",
+          "published": "2020-09-10T05:35:02+00:00",
+          "updated": "2020-09-10T05:35:02+00:00"
+        },
+        "docType": "Teaser",
+        "id": "12625936",
+        "synopsis": "Find more local news\nTell us your location and find more local ABC News and information",
+        "synopsisAlt": {
+          "lg": "Find more local news\nTell us your location and find more local ABC News and information",
+          "sm": "Find more local news\nTell us your location and find more local ABC News and information"
+        },
+        "teaserText": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "h1",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "Find more local news"
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "tagname": "ul",
+                "children": [
+                  {
+                    "type": "element",
+                    "tagname": "li",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tagname": "a",
+                        "parameters": {
+                          "ref": "12332556",
+                          "show": "replace"
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "content": "Tell us your location and find more local ABC News and information"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "title": "Find more local news",
+        "titleAlt": {
+          "lg": "Find more local news",
+          "md": "Find more local news",
+          "sm": "Find more local news"
+        },
+        "viewType": "wysiwyg"
+      },
+      {
+        "alt": "Copper heritage diving helmets in the museum's storeroom",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "ABC North Queensland: Zilla Gordon"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explorer-langley-diving/100616472",
+        "caption": "Historical diving helmets, which are not on public display, are carefully stored at the museum. ",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:02:28+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100616472",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 3333,
+                  "cropWidth": 3333,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/b17f7591d45d6f261cde405301e75485?impolicy=wcms_crop_resize&cropH=3333&cropW=3333&xPos=834&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 834,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "title": "Historical diving helmets",
+        "titleAlt": {
+          "lg": "Historical diving helmets",
+          "md": "Historical diving helmets",
+          "sm": "underwater explorer langley diving"
+        }
+      },
+      {
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explorer-second-insta/100616682",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:02:28+00:00"
+        },
+        "docType": "Interactive",
+        "externalembed": {
+          "id": "CPDPd6jDJQK",
+          "url": "https://www.instagram.com/p/CPDPd6jDJQK/"
+        },
+        "id": "100616682",
+        "title": "underwater explorer second insta",
+        "titleAlt": {
+          "lg": "underwater explorer second insta",
+          "md": "underwater explorer second insta",
+          "sm": "underwater explorer second insta"
+        },
+        "viewType": "instagram"
+      },
+      {
+        "alt": "Items fond on a ship, covered in residual from being underwater",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "ABC North Queensland: Zilla Gordon"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explorer-items/100616508",
+        "caption": "Many of the items are from the Yongala, which sank in 1911, and the Foam, which sank in 1893. ",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:02:28+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100616508",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 3333,
+                  "cropWidth": 3333,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/255fe5bd5acc6971529b924132059af4?impolicy=wcms_crop_resize&cropH=3333&cropW=3333&xPos=834&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 834,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "title": "Shipwreck artefacts",
+        "titleAlt": {
+          "lg": "Shipwreck artefacts",
+          "md": "Shipwreck artefacts",
+          "sm": "underwater explorer items"
+        }
+      },
+      {
+        "alt": "A close of up a old vase, found on a shipwreck",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "ABC North Queensland: Zilla Gordon"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explorer-plate/100616668",
+        "caption": "Dr McAllister says that it can take about two years to curate a new collection.",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:02:28+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100616668",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 3333,
+                  "cropWidth": 3333,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/e89d908157478270978187204e9f7756?impolicy=wcms_crop_resize&cropH=3333&cropW=3333&xPos=834&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 834,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "title": "A rescued treasure",
+        "titleAlt": {
+          "lg": "A rescued treasure",
+          "md": "A rescued treasure",
+          "sm": "underwater explorer plate"
+        }
+      }
+    ],
+    "mediaFeatured": [
+      {
+        "alt": "A woman diving in the ocean with a mental detector",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "Supplied"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-15/underwater-explorer-hero-insta/100616748",
+        "caption": "Maddy McAllister had her first taste of scuba diving at 15 and has loved it ever since.",
+        "dates": {
+          "displayPublished": "2021-11-15T00:02:28+00:00",
+          "displayUpdated": "2021-11-15T00:16:18+00:00",
+          "published": "2021-11-15T00:02:28+00:00",
+          "updated": "2021-11-15T00:16:18+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100616748",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 716,
+                  "cropWidth": 716,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/538836c94011f406710231198a3ea82c?impolicy=wcms_crop_resize&cropH=716&cropW=716&xPos=149&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 149,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "title": "Maddy McAllister searches for treasure",
+        "titleAlt": {
+          "lg": "Maddy McAllister searches for treasure",
+          "md": "Maddy McAllister searches for treasure",
+          "sm": "underwater explorer hero insta"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/archaeology",
+        "id": "2378",
+        "title": "Archaeology"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/maritime",
+        "id": "1292",
+        "title": "Maritime"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/history",
+        "id": "1008",
+        "title": "History"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/oceans-and-reefs",
+        "id": "1454",
+        "title": "Oceans and Reefs"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/women",
+        "id": "1172",
+        "title": "Women"
+      }
+    ]
+  },
+  "canonicalURL": "https://www.abc.net.au/news/2021-11-15/museum-of-tropical-queenslands-underwater-shipwreck-explorer/100612884",
+  "dates": {
+    "displayPublished": "2021-11-15T00:02:28+00:00",
+    "displayUpdated": "2021-11-15T00:14:42+00:00",
+    "published": "2021-11-15T00:02:28+00:00",
+    "updated": "2021-11-15T00:14:42+00:00"
+  },
+  "docType": "Article",
+  "embeddedMedia": [
+    {
+      "docType": "ImageProxy",
+      "id": "100616436"
+    },
+    {
+      "docType": "ImageProxy",
+      "id": "100614030"
+    },
+    {
+      "docType": "Teaser",
+      "id": "12625936"
+    },
+    {
+      "docType": "ImageProxy",
+      "id": "100616472"
+    },
+    {
+      "docType": "Interactive",
+      "id": "100616682"
+    },
+    {
+      "docType": "ImageProxy",
+      "id": "100616508"
+    },
+    {
+      "docType": "ImageProxy",
+      "id": "100616668"
+    }
+  ],
+  "featuredMedia": [
+    {
+      "docType": "ImageProxy",
+      "id": "100616748"
+    }
+  ],
+  "id": "100612884",
+  "keywords": [
+    "shipwrecks",
+    "maritime",
+    "archaeology",
+    "treasure",
+    "diving",
+    "history",
+    "women in science",
+    "STEM",
+    "goodnews"
+  ],
+  "source": "ABC North Qld",
+  "sourceURL": "https://www.abc.net.au/radio/northqld/",
+  "synopsis": "Maddy McAllister spends her days trying to uncover the world’s buried treasures. That is, when she isn't overseeing the care of about 8,000 artefacts from 28 shipwrecks.",
+  "synopsisAlt": {
+    "lg": "Maddy McAllister spends her days trying to uncover the world’s buried treasures. That is, when she isn't overseeing the care of about 8,000 artefacts from 28 shipwrecks.",
+    "sm": "Maddy McAllister spends her days trying to uncover the world’s buried treasures. That is, when she isn't overseeing the care of about 8,000 artefacts from 28 shipwrecks."
+  },
+  "text": {
+    "json": {
+      "type": "element",
+      "tagname": "div",
+      "parameters": {
+        "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink"
+      },
+      "children": [
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Maddy McAllister spent her childhood in south-east Western Australia listening to her grandfather's tales of ships lost at sea."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Now Dr McAllister has turned her love of fishermen's tales into a career."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "As the senior curator of maritime archaeology at the Museum of Tropical Queensland, she spends her days overseeing about 8,000 artefacts recovered from 28 shipwrecks along the Queensland coastline."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"I would spend my summer holidays snorkelling and exploring anything underwater I could,\" Dr McAllister said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"And then I found out you could add history to working underwater.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100616436"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[PIC]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Dr McAllister got her first taste of diving at 15 when her father gave her a scuba course for Christmas."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "She then started volunteering at a museum and realised she could study shipwrecks as a career. "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"I then jumped straight into a Bachelor of Archaeology, followed by a Master of Maritime Archaeology, then I worked for a couple of years before doing my PhD,\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "h1",
+          "children": [
+            {
+              "type": "text",
+              "content": "From silver coins to Scotch whisky"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Having worked in Melbourne and Adelaide, Dr McAllister has discovered some unusual artefacts in her time."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"I've found wonderful things from glass bottles, to leather shoes. "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"I've even been lucky enough to work at a site that had Spanish coins on it.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100614030"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[PIC]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "But what Dr McAllister loved most about that site, she said, was the ship itself."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"Sometime you can work on a ship that might have sunk 200 years ago, and when you uncover some of that hull, the planking looks like it sank yesterday,\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"I really am fascinated about how we built and constructed wooden ships a long time ago."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"We've lost a lot of that knowledge.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "12625936"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[Find more local news teaser]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100616472"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[PIC]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "h1",
+          "children": [
+            {
+              "type": "text",
+              "content": "Hi-tech treasure hunting "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "While the museum houses treasures from 28 shipwrecks, it hopes to be able to add to its collection as more artefacts and wrecks are discovered."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"We're getting better and better at it,\" Dr McAllister said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"Technology means boats are out there mapping the sea floor at a higher resolution than ever before.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100616682"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[PIC]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Dr McAllister also said discoveries had been made by people using Google Earth."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"You wouldn't believe the amount of people who have come across a shadow,\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"We often do an initial survey and a sweep that involves photography and mapping some features and you get a basic plan of the site.\""
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Then, once a wreck was confirmed, a decision had to be made about whether or not to bring artefacts up to the surface, or to leave them where they lay."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"All shipwrecks in Queensland over 75 years old are protected whether we know about them or not,\" she said."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100616508"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[PIC]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Dr McAllister said the underwater sites degraded until they reached a particular point beyond which they would remain preserved without deteriorating further. "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"Once you shift them and interfere with them, you kind of break that,\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"There's a chance it could survive far better where it is.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "h1",
+          "children": [
+            {
+              "type": "text",
+              "content": "STEM sees tides of change "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Dr McAllister is one of just 20 maritime archaeologists working professionally in Australia in academic positions, government roles or in commercial jobs."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "As a woman working in a STEM field, she said she had started to see things changing, especially for her generation and girls coming through the education system now."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100616668"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[PIC]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Australian Academy of Science chief executive Anna-Maria Arabia agreed that attitudes were changing in the male-dominated sector, but said there was still room for improvement."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"[We need to] remove the artificial barriers that say it's too hard [for girls] or the barrier that says, 'Where's science going to get you anyway?',\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Ms Arabia says there was an increasing number of jobs that required STEM skills."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"You don't just do STEM because you want to do research,\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"We need to get better at showing women and girls those role models, and giving those women and girls a platform to become more visible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"You can't be what you can't see.\""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "title": "From Spanish coins to century-old whisky, Maddy hunts for shipwreck treasure",
+  "titleAlt": {
+    "lg": "From Spanish coins to century-old whisky, Maddy hunts for shipwreck treasure",
+    "md": "Meet the woman who keeps sunken treasure in ship-shape order",
+    "sm": "Uncovering sunken treasure"
+  }
+}

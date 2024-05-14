@@ -1,0 +1,676 @@
+{
+  "_embedded": {
+    "contributors": [
+      {
+        "canonicalURL": "https://www.abc.net.au/news/guy-williams/13494298",
+        "id": "13494298",
+        "names": {
+          "first": "Guy",
+          "full": "Guy Williams",
+          "last": "Williams"
+        },
+        "role": "author"
+      },
+      {
+        "canonicalURL": "https://www.abc.net.au/news/jasmine-hines/12619952",
+        "id": "12619952",
+        "names": {
+          "first": "Jasmine",
+          "full": "Jasmine Hines",
+          "last": "Hines"
+        },
+        "role": "author"
+      }
+    ],
+    "locations": [
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/rockhampton-4700",
+        "id": "15910",
+        "title": "Rockhampton"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/brisbane-4000",
+        "id": "12858",
+        "title": "Brisbane"
+      }
+    ],
+    "mediaEmbedded": [
+      {
+        "alt": "Chanelle Olive sits on a chair in an office. ",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "supplied"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-22/chanelle-olive-1/100635566",
+        "caption": "Chanelle Olive is an engineering manager at Energy Queensland and is eager to guide high school girls interested in becoming electrical engineers.",
+        "dates": {
+          "displayPublished": "2021-11-21T20:13:18+00:00",
+          "published": "2021-11-21T20:13:18+00:00",
+          "updated": "2021-11-21T20:13:18+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100635566",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 1984,
+                  "cropWidth": 1984,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/acf1095796ae3e8ee99941fdfb9aeb22?impolicy=wcms_crop_resize&cropH=1984&cropW=1984&xPos=85&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 85,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "source": "ABC Capricornia",
+        "sourceURL": "https://www.abc.net.au/radio/capricornia/",
+        "title": "Chanelle Olive 1",
+        "titleAlt": {
+          "lg": "Chanelle Olive 1",
+          "md": "Chanelle Olive 1",
+          "sm": "Chanelle Olive 1"
+        }
+      },
+      {
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "supplied"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-22/chanelle-olive-3/100635500",
+        "caption": "Chanelle Olive and daughter Gianna. Mrs Olive is an engineering manager at Energy Queensland.",
+        "dates": {
+          "displayPublished": "2021-11-21T20:13:18+00:00",
+          "published": "2021-11-21T20:13:18+00:00",
+          "updated": "2021-11-21T20:13:18+00:00"
+        },
+        "docType": "Image",
+        "id": "100635500",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 1773,
+                  "cropWidth": 1773,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/c043fa8a36333e48858d922f164e0ed6?impolicy=wcms_crop_resize&cropH=1773&cropW=1773&xPos=813&yPos=211&width=862&height=862",
+                  "width": 862,
+                  "x": 813,
+                  "y": 211
+                }
+              ]
+            }
+          }
+        },
+        "source": "ABC Capricornia",
+        "sourceURL": "https://www.abc.net.au/radio/capricornia/",
+        "title": "Chanelle Olive 3",
+        "titleAlt": {
+          "lg": "Chanelle Olive 3",
+          "md": "Chanelle Olive 3",
+          "sm": "Chanelle Olive 3"
+        }
+      },
+      {
+        "alt": "Head shot of Professionals Australia CEO Jill McCabe.",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "supplied"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-22/jill-mccabe/100635626",
+        "caption": "Professionals Australia CEO Jill McCabe says the engineering industry is losing valuable role models for young woman.",
+        "dates": {
+          "displayPublished": "2021-11-21T20:13:18+00:00",
+          "published": "2021-11-21T20:13:18+00:00",
+          "updated": "2021-11-21T20:13:18+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100635626",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 1280,
+                  "cropWidth": 728,
+                  "height": 1280,
+                  "url": "https://live-production.wcms.abc-cdn.net.au/53f91295ce99c06f40bcd94fbe43100b?src",
+                  "width": 728,
+                  "x": 0,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "source": "ABC Capricornia",
+        "sourceURL": "https://www.abc.net.au/radio/capricornia/",
+        "title": "Professionals Australia CEO Jill McCabe",
+        "titleAlt": {
+          "lg": "Professionals Australia CEO Jill McCabe",
+          "md": "Professionals Australia CEO Jill McCabe",
+          "sm": "Professionals Australia CEO Jill McCabe"
+        }
+      }
+    ],
+    "mediaFeatured": [
+      {
+        "alt": "Chanelle Olive standing in front of a sub-station",
+        "byLine": {
+          "json": {
+            "type": "element",
+            "tagname": "div",
+            "parameters": {
+              "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+              "xmlns:xlink": "http://www.w3.org/1999/xlink"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tagname": "p",
+                "children": [
+                  {
+                    "type": "text",
+                    "content": "Supplied"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "canonicalURL": "https://www.abc.net.au/news/2021-11-22/chanelle-olive-2/100635568",
+        "caption": "Chanelle Olive is an engineering manager at Energy Queensland.",
+        "dates": {
+          "displayPublished": "2021-11-21T20:13:18+00:00",
+          "published": "2021-11-21T20:13:18+00:00",
+          "updated": "2021-11-21T20:13:18+00:00"
+        },
+        "docType": "ImageProxy",
+        "id": "100635568",
+        "media": {
+          "image": {
+            "primary": {
+              "complete": [
+                {
+                  "cropHeight": 1984,
+                  "cropWidth": 1984,
+                  "height": 862,
+                  "ratio": "1x1",
+                  "url": "https://live-production.wcms.abc-cdn.net.au/b858be50a7033a3a198d471aca237e69?impolicy=wcms_crop_resize&cropH=1984&cropW=1984&xPos=634&yPos=0&width=862&height=862",
+                  "width": 862,
+                  "x": 634,
+                  "y": 0
+                }
+              ]
+            }
+          }
+        },
+        "source": "ABC Capricornia",
+        "sourceURL": "https://www.abc.net.au/radio/capricornia/",
+        "title": "Chanelle Olive 2",
+        "titleAlt": {
+          "lg": "Chanelle Olive 2",
+          "md": "Chanelle Olive 2",
+          "sm": "Chanelle Olive 2"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/engineering",
+        "id": "2450",
+        "title": "Engineering"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/education-industry",
+        "id": "874",
+        "title": "Education Industry"
+      },
+      {
+        "canonicalURL": "http://www.abc.net.au/news/topic/women-in-agriculture",
+        "id": "2244",
+        "title": "Women In Agriculture"
+      }
+    ]
+  },
+  "canonicalURL": "https://www.abc.net.au/news/2021-11-22/women-in-engineering-mentoring/100635010",
+  "dates": {
+    "displayPublished": "2021-11-21T20:13:18+00:00",
+    "displayUpdated": "2021-11-21T23:34:23+00:00",
+    "published": "2021-11-21T20:13:18+00:00",
+    "updated": "2021-11-21T23:34:23+00:00"
+  },
+  "docType": "Article",
+  "embeddedMedia": [
+    {
+      "docType": "ImageProxy",
+      "id": "100635566"
+    },
+    {
+      "docType": "Image",
+      "id": "100635500"
+    },
+    {
+      "docType": "ImageProxy",
+      "id": "100635626"
+    }
+  ],
+  "featuredMedia": [
+    {
+      "docType": "ImageProxy",
+      "id": "100635568"
+    }
+  ],
+  "id": "100635010",
+  "keywords": [
+    "engineering",
+    "women",
+    "trade",
+    "mentor",
+    "uniqyou",
+    "goodnews",
+    "rural",
+    "training",
+    "university"
+  ],
+  "source": "ABC Capricornia",
+  "sourceURL": "https://www.abc.net.au/radio/capricornia/",
+  "synopsis": "Chanelle Olive was just like many teenage girls, unsure what path to take as she was graduating from high school. A chance meeting changed everything for her.",
+  "synopsisAlt": {
+    "lg": "Chanelle Olive was just like many teenage girls, unsure what path to take as she was graduating from high school. A chance meeting changed everything for her.",
+    "sm": "Chance meeting with opens door to male-dominated industry."
+  },
+  "text": {
+    "json": {
+      "type": "element",
+      "tagname": "div",
+      "parameters": {
+        "xmlns": "http://www.coremedia.com/2003/richtext-1.0",
+        "xmlns:xlink": "http://www.w3.org/1999/xlink"
+      },
+      "children": [
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Women make up only 15 per cent of engineers with lack of support for professional development and gender discrimination still seen as barriers for women in engineering."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Like many teenage girls, Chanelle Olive was unsure what path to take as she was graduating from high school."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "But the opportunity to meet with senior electrical engineer Kathy Noonan inspired her to begin a career in an industry dominated by men."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Now an engineering manager at Energy Queensland, Mrs Olive is just one of many women in industries with more men who have put down the tools and guided the next generation of professionals."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"She reassured me that you can still be feminine and be an engineer; you don't have to lose yourself to fit into a stereotype of a career,\" Mrs Olive said of meeting Ms Noonan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"You can still be who you are and do that job."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"Any doubts I had prior to talking to her were gone by the time I finished.\""
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Thirteen years after entering the industry, Mrs Olive jumped at the opportunity to be an advisor with Uniq You, a new service that helps high school girls connect with women in male-dominated industries."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100635566"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[image]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "It connects girls with women in sectors such as mining, construction, aviation and defence."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "h1",
+          "children": [
+            {
+              "type": "text",
+              "content": "Unable to resist the urge to follow family"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Mrs Olive said engineering proved to be her calling despite attempts to resist following in her family member's footsteps."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "The Rockhampton woman's father, Graham, and her brothers, Blake and Stuart, and her sister-in-law, Rebecca, are all engineers."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "As a schoolgirl, Mrs Olive said she was determined to forge her own career in a different industry despite being surrounded by members of the profession."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "embed",
+            "ref": "100635500"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[image]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"In grade 12, I said, 'I'm not going to be an engineer, I'm not going to follow along with everyone else in the family, I'm going to do my own thing',\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"The more I looked into it, the more I realised what really truly was involved and how it really fitted with my strengths, my interests, and my abilities.\""
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "h1",
+          "children": [
+            {
+              "type": "text",
+              "content": "More work needed"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "In the past five years, female engineering enrolment rates in university courses have increased by 5 per cent, year on year."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "However, the Office of the Chief Scientist puts women's participation rate in engineering professions at 15 per cent, meaning participation has only increased by 2 per cent during the past decade."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Professionals Australia chief executive Jill McCabe said despite investment encouraging more young women to study science, technology, engineering and mining (STEM) subjects at university, female mentors in senior roles were hard to find."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "a",
+          "parameters": {
+            "align": "right",
+            "ref": "100635626"
+          },
+          "children": [
+            {
+              "type": "text",
+              "content": "[image]"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"Our survey shows that the engineering sector loses the skills and expertise of a significant number of female engineers between the ages of 30 and 39, which means we also lose valuable role models for young women interested in engineering careers,\" she said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "pullquote",
+          "children": [
+            {
+              "type": "element",
+              "tagname": "p",
+              "children": [
+                {
+                  "type": "text",
+                  "content": "\"Lack of support for professional development and career advancement, gender discrimination and sexual harassment remain significant barriers for women working in engineering.\""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Only 13 per cent of managers in the STEM workforce are women, and about 25 per cent of women reported they had experienced sexual harassment in the workplace."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"This confirms that we need urgent workplace and cultural changes to ensure the retention of women in STEM fields and that increasing the number of female STEM graduates alone isn't enough,\" Ms McCabe said."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "h1",
+          "children": [
+            {
+              "type": "text",
+              "content": "Service satisfies students' curiosities"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "Tanya Meessmann, chief executive of Uniq You, grew up in Yeppoon and said introducing schoolgirls to women in the professions provided opportunities for them to satisfy the curiosities they have."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tagname": "p",
+          "children": [
+            {
+              "type": "text",
+              "content": "\"They can have their own questions answered, which is going to be breaking down all those barriers that exist at an individual level for the girls, by hearing from a woman who has done the job,\" Ms Meessmann said."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "title": "'You can still be who you are and do that job': Electrical engineer lights a path for high school girls to follow",
+  "titleAlt": {
+    "lg": "'You can still be who you are and do that job': Electrical engineer lights a path for high school girls to follow",
+    "md": "Meet the women lighting a path in male-dominated industries",
+    "sm": "Women in male-dominated industries eager to help next generation"
+  }
+}

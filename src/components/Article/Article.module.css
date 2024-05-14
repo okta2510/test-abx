@@ -1,0 +1,98 @@
+.article {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.header {
+  padding: 1.5rem 1rem 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.header h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 900;
+  font-size: 2.25rem;
+  line-height: 3rem;
+}
+
+.contributors,
+.date {
+  display: block;
+  line-height: 1.25rem;
+  letter-spacing: .03125rem;
+  font-weight: 400;
+  font-size: .75rem;
+}
+
+@media (min-width: 62em) {
+  .main {
+    flex-basis: 0;
+    flex-grow: 999;
+    margin-bottom: 0;
+  }
+
+  .sidebar {
+    flex-basis: calc(25% - 1rem);
+    flex-grow: 1;
+    margin-left: 2rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 62em) {
+  .main {
+    width: 100%;
+    margin-bottom: 2.5rem;
+  }
+
+  .sidebar {
+    width: 100%;
+    padding: 1.5rem;
+  }
+}
+
+.content {
+  width: 100%;
+  padding: 3rem 1rem 0 1rem;
+}
+
+.sidebar h2 {
+  font-weight: 900;
+  margin-bottom: 2rem;
+}
+
+.moreStories {
+  margin: auto;
+  width: 100%;
+  height: 600px; /* change height to see repeat-y behavior */
+  
+  background-image:
+    radial-gradient( circle 50px at 50px 50px, lightgray 99%, transparent 0 ),
+    linear-gradient( 100deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5) 50%, rgba(255, 255, 255, 0) 80% ),
+    linear-gradient( lightgray 20px, transparent 0 ),
+    linear-gradient( lightgray 20px, transparent 0 ),
+    linear-gradient( lightgray 20px, transparent 0 ),
+    linear-gradient( lightgray 20px, transparent 0 );
+
+  background-repeat: repeat-y;
+
+  background-size:
+    100px 200px, /* circle */
+    50px 200px, /* highlight */
+    150px 200px,
+    350px 200px,
+    300px 200px,
+    250px 200px;
+
+  background-position:
+    0 0, /* circle */
+    0 0, /* highlight */
+    120px 0,
+    120px 40px,
+    120px 80px,
+    120px 120px;
+}
