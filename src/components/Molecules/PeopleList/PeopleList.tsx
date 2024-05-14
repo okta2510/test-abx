@@ -15,12 +15,12 @@ const PeopleList: React.FC<PeopleListProps> = ({ people }) => {
 
 const generateAnchorTags = (people: Person[]): JSX.Element[] => {
   return people.map((person, index) => (
-    <span>
+    <span key={person.names+index}>
 
       {people.length > 0 && index === people.length - 1 &&
         ' and '
       }
-      <a key={index} href={person.url} target="_blank" rel="noopener noreferrer">
+      <a className='text-blue-600' href={person.url} target="_blank" rel="noopener noreferrer">
       {person.names}
       </a>
       {people.length > 2 && index !== people.length - 1 &&
